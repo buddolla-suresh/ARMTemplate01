@@ -3,28 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "yourusername"
+      "value": "AzureAdmin"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "AzureAdmin@123"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE-13"
-    },
-    "vmName": {
-      "value": "MyVM"
-    },
-    "nicName": {
-      "value": "myVMNic"
-    },
-    "virtualNetworkName": {
-      "value": "MyVNET"
-    },
-    "publicIPAddressName": {
-      "value": "myPublicIP"
-    },
-    "subnetName": {
-      "value": "Subnet"
+      "value": "sawvinvm"
     }
   }
 }
